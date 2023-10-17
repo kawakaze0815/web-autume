@@ -7,6 +7,6 @@ alert('太郎が来た')
 who66 = '太郎';
 }
 function hanako66() {
-alert('太郎が来た')
+alert('花子が来た')
 who66 = '花子';
 }
