@@ -1,4 +1,4 @@
-function txtchange1() {
+function imgchange1() {
 document.getElementById('img1').innerHTML = 'ナンバーワン
 ！';
 }
