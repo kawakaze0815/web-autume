@@ -1,3 +1,5 @@
 function imgchange1() {
-document.getElementById('img1').innerHTML = '<img src="./image/bakuhatsu.png" alt="オン">';
+document.getElementById('logo').src = 
+'./image/bulbon.png';
 }
+
