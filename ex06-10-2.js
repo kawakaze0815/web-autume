@@ -1,9 +1,9 @@
 function imgchange3(){
   document.getElementById('logo').src =
-    './image/bakuhatsu.png';
+    './image/inu2.jpg';
 }
 
 function imgchange4(){
   document.getElementById('logo').src =
-    './image/bakudan.png';
+    './image/inu1.jpg';
 }
