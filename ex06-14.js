@@ -1,10 +1,3 @@
-function imgchange5() {
-document.getElementById('inuhenkou').src = 
-'./image/inu2.png';
-}
+function inuhenkou1(){ document.getElementById('gh').src='./image/inu2.jpg';}
 
-function imgchange6() {
-document.getElementById('inuhenkou').src = 
-'./image/inu1.png';
-}
-
+function inuhenkou2(){ document.getElementById('gh').src='./image/inu1.jpg';}
