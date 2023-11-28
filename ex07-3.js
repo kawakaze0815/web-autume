@@ -3,5 +3,5 @@ function BMI() {
     var weight = Number(document.getElementById('weight').value);
     var bmi = weight / (height * height); // BMIの計算
 
-    alert('BMIは ' + bmi + ' です。');
+    alert('BMI値は ' + bmi + ' です。');
 }
